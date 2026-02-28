@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Devloper, Developer, UI/UX
 -----------------------------------
 
-![Demo ของโปรเจกต์](path/to/your/image.gif)
+![Demo ของโปรเจกต์](bcat.gif)
 
 * 🌍  I'm based in Bangkok.
 * ✉️  You can contact me at [sasikarnkhot123@gmail.com](mailto:sasikarnkhot123@gmail.com)
