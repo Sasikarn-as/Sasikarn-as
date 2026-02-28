@@ -5,7 +5,7 @@ Software Devloper, Developer, UI/UX
 -----------------------------------
 
 <div align="center">
-  <img src="bcat.gif" width="200">
+  <img src="anime-frieren.gif" width="150">
 </div>
 
 * 🌍  I'm based in Bangkok.
