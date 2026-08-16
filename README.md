@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Devloper, Developer
 ----------------------------
 
-<div align="center">
+<div align-item="center">
   <img src="anime-frieren.gif" width="150">
 </div>
 
